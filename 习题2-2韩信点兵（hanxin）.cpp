@@ -19,4 +19,4 @@ int main()
     printf("Time used=%.2f\n",(double)clock()/CLOCKS_PER_SEC);
     return 0;
 }
-//韩信点兵
+
